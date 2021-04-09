@@ -191,3 +191,9 @@ Now in your `package.json` add the following at the top level.
   }
 }
 ```
+
+# ENV
+https://github.com/vercel/next.js/tree/canary/examples/environment-variables
+```shell
+touch .env .env.development .env.production .env.local .env.development.local .env.production.local
+```
